@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/timwf/weatherapp/static/css/main.e5cf6310.chunk.css",
+    "main.js": "/timwf/weatherapp/static/js/main.c3d9b631.chunk.js",
+    "main.js.map": "/timwf/weatherapp/static/js/main.c3d9b631.chunk.js.map",
+    "runtime-main.js": "/timwf/weatherapp/static/js/runtime-main.4e69603f.js",
+    "runtime-main.js.map": "/timwf/weatherapp/static/js/runtime-main.4e69603f.js.map",
+    "static/js/2.a27509c1.chunk.js": "/timwf/weatherapp/static/js/2.a27509c1.chunk.js",
+    "static/js/2.a27509c1.chunk.js.map": "/timwf/weatherapp/static/js/2.a27509c1.chunk.js.map",
+    "index.html": "/timwf/weatherapp/index.html",
+    "precache-manifest.04bf6204337bab33b260380a11be5840.js": "/timwf/weatherapp/precache-manifest.04bf6204337bab33b260380a11be5840.js",
+    "service-worker.js": "/timwf/weatherapp/service-worker.js",
+    "static/css/main.e5cf6310.chunk.css.map": "/timwf/weatherapp/static/css/main.e5cf6310.chunk.css.map",
+    "static/js/2.a27509c1.chunk.js.LICENSE.txt": "/timwf/weatherapp/static/js/2.a27509c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e69603f.js",
+    "static/js/2.a27509c1.chunk.js",
+    "static/css/main.e5cf6310.chunk.css",
+    "static/js/main.c3d9b631.chunk.js"
+  ]
+}
