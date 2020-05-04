@@ -10,10 +10,6 @@ Live Demo - https://timwf.github.io/weatherapp/
 * Bespoke dynamic svg icons and background images depending on weather conditions/time of day
 * Sunrise and sunrise, and 5 day forecast times showing local time in any location
 
-## Purpose 
-
-New to React - to understand React in more detail.
-
 ## Dependences - Libraries
 
 Open Weather API, React JS `create-react-app`, fontawesome 
